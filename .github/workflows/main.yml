@@ -5,7 +5,7 @@ jobs:
   acao_inicial_job:
     runs-on: ubuntu-latest
     steps:
-    - name: imprime OLA
-      run: echo “OLA”
-    - name: imprime TCHAU
-      Run: echo “TCHAU”
+        - name: imprime OLA
+          run: echo “OLA”
+        - name: imprime TCHAU
+          run: echo “TCHAU”
